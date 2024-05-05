@@ -41,3 +41,7 @@ Close the settings window and return to the Discord interface. Right-click on th
 ![Copy Server ID](discc/guildid.png)
 
 Now you have successfully retrieved your Discord token and server ID for further use.
+
+## Step 6: Now run the main.py
+
+add guild ids in whitelist to avoid leaving those servers
