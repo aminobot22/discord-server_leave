@@ -14,11 +14,13 @@ To get started, open Discord in your preferred web browser.
 
 Press CTRL+SHIFT+I or F12 to open the developer tools. Then, select the "Network" tab.
 
+![open_developer](discc/net.png)
+
 ## Step 3: Filter Requests
 
 After opening the developer tools, refresh the Discord page by pressing F5 or by manually reloading the page. Next, type `/api` in the filter bar to narrow down the requests. Select any of the requests that appear.
 
-![Filter Requests](discc/request.png)
+![Filter Requests](discc/opennetwork.png)
 
 ## Step 4: Retrieve Token
 
