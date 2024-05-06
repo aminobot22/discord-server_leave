@@ -45,3 +45,5 @@ Now you have successfully retrieved your Discord token and server ID for further
 ## Step 6: Now run the main.py
 
 add guild ids in whitelist to avoid leaving those servers
+
+now run main.py
